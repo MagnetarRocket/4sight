@@ -1,6 +1,6 @@
 button_layout=H|C
-button_offset=0
-button_spacing=0
+button_offset=6
+button_spacing=6
 #
 show_app_icon=false
 full_width_title=false

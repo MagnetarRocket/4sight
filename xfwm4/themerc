@@ -11,3 +11,9 @@ title_vertical_offset_inactive=3
 title_alignment=left
 active_text_color=#000000
 inactive_text_color=#000000
+
+shadow_delta_height=2
+shadow_delta_width=0
+shadow_delta_x=0
+shadow_delta_y=-2
+shadow_opacity=40

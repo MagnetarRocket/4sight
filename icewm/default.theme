@@ -19,4 +19,4 @@ DlgBorderSizeX=3
 DlgBorderSizeY=3
 
 TaskBarJustify="left"
-TrayIconMaxHeight=33
+TrayIconMaxHeight=32

@@ -1,0 +1,22 @@
+ThemeDescripton="A theme intending to emulate the 4sight workspace environment as closely as possible."
+
+ThemeAuthor=""
+
+Look = flat
+
+TitleButtonsLeft="i"
+TitleButtonsRight"x"
+
+TitleBarJustify=0
+TitleBarHeight=24
+
+BorderSizeX=8
+BorderSizeY=8
+CornerSizeX=8
+CornerSizeY=8
+
+DlgBorderSizeX=3
+DlgBorderSizeY=3
+
+TaskBarJustify="left"
+TrayIconMaxHeight=33

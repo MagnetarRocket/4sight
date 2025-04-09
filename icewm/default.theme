@@ -5,10 +5,10 @@ ThemeAuthor=""
 Look = flat
 
 TitleButtonsLeft="i"
-TitleButtonsRight"x"
+TitleButtonsRight="x"
 
 TitleBarJustify=0
-TitleBarHeight=24
+TitleBarHeight=22
 
 BorderSizeX=8
 BorderSizeY=8
@@ -19,6 +19,14 @@ DlgBorderSizeX=3
 DlgBorderSizeY=3
 
 TaskBarJustify="left"
-TrayIconMaxHeight=32
+TrayIconMaxHeight=30
 TaskBarClockLeds = 0
+
+# COlors
+
+# Menu
+ColorNormalMenu                   = "#ffffff"
+ColorActiveMenuItem               = "#000000"
+ColorNormalMenuItemText           = "#000000"
+ColorActiveMenuItemText           = "#ffffff"
 

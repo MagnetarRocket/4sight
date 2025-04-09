@@ -20,3 +20,5 @@ DlgBorderSizeY=3
 
 TaskBarJustify="left"
 TrayIconMaxHeight=32
+TaskBarClockLeds = 0
+

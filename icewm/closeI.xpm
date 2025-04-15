@@ -1,5 +1,5 @@
 /* XPM */
-static char *xA[] = {
+static char *closeI[] = {
 /* columns rows colors chars-per-pixel */
 "16 48 9 1",
 "  c black",
@@ -31,9 +31,9 @@ static char *xA[] = {
 "                ",
 "++++++++++++++++",
 "++++++++++++++++",
+"++++++++++++++++",
 "OOOOOOOOOOOOOOOO",
 "oooooooooooooooo",
-"++++++++++++++++",
 "XXXXXXXXXXXXXXXX",
 "                ",
 "$$$$$$$$$$$$$$$$",
@@ -55,9 +55,9 @@ static char *xA[] = {
 "$$$$$$$$$$$$$$$$",
 "++++++++++++++++",
 "++++++++++++++++",
+"++++++++++++++++",
 "OOOOOOOOOOOOOOOO",
 "oooooooooooooooo",
-"++++++++++++++++",
 "XXXXXXXXXXXXXXXX",
 "                "
 };

@@ -1,0 +1,38 @@
+/* XPM */
+static char *s-inactive[] = {
+/* columns rows colors chars-per-pixel */
+"8 24 8 1",
+"  c black",
+". c gray40",
+"X c #8E8E8E",
+"o c gray68",
+"O c #B7B7B7",
+"+ c gray84",
+"@ c gray88",
+"# c gray100",
+/* pixels */
+"########",
+"@@@@@@@@",
+"++++++++",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"OOOOOOOO",
+"oooooooo",
+"XXXXXXXX",
+"........",
+"        "
+};

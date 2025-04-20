@@ -1,3 +1,5 @@
+Name="4sight"
+
 ThemeDescripton="A theme intending to emulate the 4sight workspace environment as closely as possible."
 
 ThemeAuthor=""
@@ -8,15 +10,17 @@ TitleButtonsLeft="i"
 TitleButtonsRight="x"
 
 TitleBarJustify=0
-TitleBarHeight=22
+TitleBarHeight=24
+
+TitleBarJoinLeft=1
 
 BorderSizeX=8
 BorderSizeY=8
-CornerSizeX=8
-CornerSizeY=8
+CornerSizeX=28
+CornerSizeY=28
 
-DlgBorderSizeX=3
-DlgBorderSizeY=3
+# DlgBorderSizeX=3
+# DlgBorderSizeY=3
 
 TaskBarJustify="left"
 TrayIconMaxHeight=30
@@ -30,3 +34,11 @@ ColorActiveMenuItem               = "#000000"
 ColorNormalMenuItemText           = "#000000"
 ColorActiveMenuItemText           = "#ffffff"
 
+# Desktop
+DesktopBackgroundColor=	"#859DBC"
+
+ColorNormalTitleBarText=	"#000000"
+ColorActiveTitlebarText=	"#000000"
+
+ColorNormalBorder=	"#000000"
+ColorActiveBorder=	"#000000"

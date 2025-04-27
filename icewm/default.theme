@@ -6,6 +6,10 @@ ThemeAuthor=""
 
 Look = flat
 
+OpaqueMove=1
+OpaqueResize=0
+GrabRootWindow=0
+
 TitleButtonsLeft="i"
 TitleButtonsRight="x"
 
@@ -23,10 +27,14 @@ CornerSizeY=28
 # DlgBorderSizeY=3
 
 TaskBarJustify="left"
-TrayIconMaxHeight=30
+TrayIconMaxHeight=31
+TaskBarGraphHeight = 30
 TaskBarClockLeds = 0
+TaskbarKeepBelow 
+ShowElipsis= 1
+TrayDrawBevel=1
 
-# COlors
+# Hues
 
 # Menu
 ColorNormalMenu="#ffffff"
@@ -40,5 +48,13 @@ DesktopBackgroundColor=	"#859DBC"
 ColorNormalTitleBarText="#000000"
 ColorActiveTitleBarText="#000000"
 
-ColorNormalBorder="#000000"
-ColorActiveBorder="#000000"
+# ColorNormalBorder="#000000"
+# ColorActiveBorder="#000000"
+
+#Fonts
+
+TitleFontName=-adobe-helvetica-bold-o-*-*-14-*-*-*-*-*-*-*
+MenuFontName=-adobe-helvetica-bold-o-*-*-14-*-*-*-*-*-*-*
+StatusFontName=
+NormalButtonFontName=-adobe-helvetica-medium-r-*-*-14-*-*-*-*-*-*-*
+NormalTaskbarFontName=

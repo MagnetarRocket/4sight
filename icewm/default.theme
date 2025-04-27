@@ -28,10 +28,10 @@ CornerSizeY=28
 
 TaskBarJustify="left"
 TrayIconMaxHeight=31
-TaskBarGraphHeight = 30
+TaskBarGraphHeight=30
 TaskBarClockLeds = 0
 TaskbarKeepBelow 
-ShowElipsis= 1
+ShowElipsis=1
 TrayDrawBevel=1
 
 # Hues
@@ -53,8 +53,8 @@ ColorActiveTitleBarText="#000000"
 
 #Fonts
 
-TitleFontName=-adobe-helvetica-bold-o-*-*-14-*-*-*-*-*-*-*
-MenuFontName=-adobe-helvetica-bold-o-*-*-14-*-*-*-*-*-*-*
+TitleFontName="-adobe-helvetica-bold-o-*-*-14-*-*-*-*-*-*-*"
+MenuFontName="-adobe-helvetica-bold-o-*-*-14-*-*-*-*-*-*-*"
 StatusFontName=
-NormalButtonFontName=-adobe-helvetica-medium-r-*-*-14-*-*-*-*-*-*-*
-NormalTaskbarFontName=
+NormalButtonFontName="-adobe-helvetica-medium-r-*-*-14-*-*-*-*-*-*-*"
+NormalTaskbarFontName="-adobe-helvetica-bold-o-*-*-14-*-*-*-*-*-*-*"

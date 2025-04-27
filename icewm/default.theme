@@ -27,11 +27,14 @@ CornerSizeY=28
 # DlgBorderSizeY=3
 
 TaskBarJustify="left"
-TrayIconMaxHeight=31
+TrayIconMaxHeight=32
 TaskBarGraphHeight=30
+PagerShowPreview=1
 TaskBarClockLeds = 0
-TaskbarKeepBelow 
-ShowElipsis=1
+TaskbarKeepBelow=1
+TaskBarEnableSystemTray=1
+TaskBarShowStartMenu=0
+ShowElipsis=0
 TrayDrawBevel=1
 
 # Hues
@@ -50,6 +53,8 @@ ColorActiveTitleBarText="#000000"
 
 # ColorNormalBorder="#000000"
 # ColorActiveBorder="#000000"
+
+#
 
 #Fonts
 

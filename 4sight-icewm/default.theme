@@ -20,11 +20,11 @@ TitleBarJoinLeft=1
 
 BorderSizeX=8
 BorderSizeY=8
-CornerSizeX=28
-CornerSizeY=28
+CornerSizeX=23
+CornerSizeY=23
 
-# DlgBorderSizeX=3
-# DlgBorderSizeY=3
+DlgBorderSizeX=10
+DlgBorderSizeY=10
 
 TaskBarJustify="left"
 TrayIconMaxHeight=32
@@ -51,8 +51,8 @@ DesktopBackgroundColor=	"#859DBC"
 ColorNormalTitleBarText="#000000"
 ColorActiveTitleBarText="#000000"
 
-# ColorNormalBorder="#000000"
-# ColorActiveBorder="#000000"
+ColorNormalBorder="#000000"
+ColorActiveBorder="#000000"
 
 #
 

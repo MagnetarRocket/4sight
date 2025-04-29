@@ -9,6 +9,8 @@ Look = flat
 OpaqueMove=1
 OpaqueResize=0
 GrabRootWindow=0
+HideBordersMaximized=1
+ShowMoveSizeStatus=0
 
 TitleButtonsLeft="i"
 TitleButtonsRight="x"

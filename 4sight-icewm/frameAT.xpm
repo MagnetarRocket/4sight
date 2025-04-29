@@ -3,17 +3,17 @@ static char *frameAT[] = {
 /* columns rows colors chars-per-pixel */
 "1 8 5 1",
 "  c black",
-". c gray40",
-"X c #8E8E8E",
-"o c gray68",
-"O c #B7B7B7",
+". c #B7B7B7",
+"X c gray84",
+"o c gray88",
+"O c gray100",
 /* pixels */
 " ",
 "O",
-"O",
-"O",
 "o",
 "X",
+".",
+".",
 ".",
 " "
 };

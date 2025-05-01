@@ -1,0 +1,23 @@
+/* XPM */
+static char *_button-shrink[] = {
+/* columns rows colors chars-per-pixel */
+"16 13 4 1",
+"  c black",
+". c gray",
+"X c white",
+"o c None",
+/* pixels */
+"        oooooooo",
+" ......         ",
+" ...... XXXXXXX ",
+" ...... XXXXXXX ",
+" ...... XXXXXXX ",
+" ...... XXXXXXX ",
+"        XXXXXXX ",
+"o XXXXXXXXXXXXX ",
+"o XXXXXXXXXXXXX ",
+"o XXXXXXXXXXXXX ",
+"o XXXXXXXXXXXXX ",
+"o XXXXXXXXXXXXX ",
+"o               "
+};
